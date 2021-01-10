@@ -94,4 +94,4 @@ document.getElementById('product-list').addEventListener('click', function(e){
 
 
 
-//Pruba de GIT
+//Prueba de GIT
